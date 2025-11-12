@@ -35,10 +35,14 @@ Para que evitar problemas entre dependências e versões é recomendável utiliz
     venv\Scripts\activate
     ```
 
-### 3. Execute o código:
+- #### Instale as depêncendias:
 
-    ```bash
-    python main.py
+  ```bash
+    pip install -r requirements.txt
     ```
 
----
+### 3. Execute o código:
+
+```bash
+    python main.py
+```
