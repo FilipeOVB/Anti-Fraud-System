@@ -1,16 +1,15 @@
 # Anti-Fraud System
----
 
 Este repositório apresenta todo o conteúdo referente a análise e criação de um sistema anti-fraudes de transações.
 
-Por favor acesse o [relatório de atividades](./Relatórios de Tarefas - Cloudwalk.pdf)
+Por favor acesse o [relatório de atividades](./Relatorio.pdf) para mais informações referente ao desenvolvimento do teste.
 
 ## ⚙️ Instalação
 
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/FilipeOVB/highway-escape-game](https://github.com/FilipeOVB/Anti-Fraud-System.git
+git clone https://github.com/FilipeOVB/Anti-Fraud-System.git
 cd ./Anti-Fraud-System
 ```
 
